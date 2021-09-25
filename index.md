@@ -7,11 +7,11 @@ There are some instruction about that anime [https://en.wikipedia.org/wiki/Aria_
 I also want to list some seiyu that I like:
 - Takahashi Rie
 - Touyama Nao
-- Uchida Maaya
+- Uchida Maaya \br
 Some actors I like:
 1. Aragaki Yui
 2. Hoshino Gen
-3. Ishihara Satomi \br 
+3. Ishihara Satomi 
  My academic experience:
 -[x] #kidgarden
 -[x] #elementary school
