@@ -11,7 +11,7 @@ I also want to list some seiyu that I like:
 Some actors I like:
 1. Aragaki Yui
 2. Hoshino Gen
-3. Ishihara Satomi 
+3. Ishihara Satomi \br 
  My academic experience:
 -[x] #kidgarden
 -[x] #elementary school
