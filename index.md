@@ -8,7 +8,6 @@ I also want to list some seiyu that I like:
 - Takahashi Rie
 - Touyama Nao
 - Uchida Maaya
-\newline
 Some actors I like:
 1. Aragaki Yui
 2. Hoshino Gen
