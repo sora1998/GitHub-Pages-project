@@ -22,7 +22,7 @@ Some actors I like:
 - [x] #elementary school
 - [x] #middle school
 - [x] #high school
-- [] Graduate Scool
+- [ ] Graduate Scool
 - [ ] Phd <br/><br/>
 I hope you guys get a brief idea about me and I'l gald to meet you guys.<br/>
 [TOP](#Top)
