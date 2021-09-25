@@ -16,13 +16,13 @@ I also want to list some seiyu that I like:<br/>
 Some actors I like:
 1. Aragaki Yui
 2. Hoshino Gen
-3. Ishihara Satomi 
+3. Ishihara Satomi <br/><br/>
  My academic experience:
--[x] #kidgarden
--[x] #elementary school
--[x] #middle school
--[x] #high school
--[] Graduate Scool
--[ ] Phd
+- [x] #kidgarden
+- [x] #elementary school
+- [x] #middle school
+- [x] #high school
+- [] Graduate Scool
+- [ ] Phd <br/><br/>
 I hope you guys get a brief idea about me and I'l gald to meet you guys.<br/>
 [TOP](#Top)
