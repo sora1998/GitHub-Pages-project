@@ -1,7 +1,7 @@
 #Top
 # Enze Ma's User Page
 [Hello](hello-fb-logo.png), my name is **Enze Ma** and I'm from **China**. As a programmar, I prefer `python` and `java` because I use them more often, and I'm intrested in 
-- AI machine\
+- AI
 - Machine Learing
 - Deep Learning
 - Back-end Soft enginner. <br/>
