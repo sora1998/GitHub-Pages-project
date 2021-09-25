@@ -8,7 +8,7 @@
 As a person, I like plaing some games and watch the anime such as 
 >Hidan no Aria
 >![picture](https://static.wikia.nocookie.net/hidannoaria/images/f/f4/Hidan_no_Aria_Volume_25_Cover.jpg/revision/latest?cb=20170423061441).<br/><br/>
-There are some instruction about that anime [https://en.wikipedia.org/wiki/Aria_the_Scarlet_Ammo].<br/><br/>
+There are some instruction about that anime [info](https://en.wikipedia.org/wiki/Aria_the_Scarlet_Ammo).<br/><br/>
 I also want to list some seiyu that I like:<br/>
 - Takahashi Rie
 - Touyama Nao
