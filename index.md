@@ -19,5 +19,5 @@ Some actors I like:
 -[x] #high school
 -[] Graduate Scool
 -[ ] Phd
-I hope you guys get a brief idea about me and I'l gald to meet you guys.
+I hope you guys get a brief idea about me and I'l gald to meet you guys.<br/>
 [TOP](#Top)
